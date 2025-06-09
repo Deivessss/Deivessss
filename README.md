@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 Projeto principal:  
+📌📚 Projeto principal:  
 Software "cadastro-de-livros", desenvolvido em Python, com armazenamento em MySQL!  
 Acesse: https://github.com/Deivessss/cadastro-de-livros
 
