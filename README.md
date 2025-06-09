@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 📚 Projeto principal:  
 Software "cadastro-de-livros", desenvolvido em Python, com armazenamento em MySQL!  
+Acesse: https://github.com/Deivessss/cadastro-de-livros
 
 💼Busco um estágio:  
 Estou animado para aprender, e ter minha primeira experiência na área de tecnologia como desenvolvedor!
