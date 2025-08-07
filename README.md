@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📌📚 Projeto principal:  
-Software "cadastro-de-livros", desenvolvido em JavaScript/Node.js, com REST API e armazenamento em PostgreSQL!  
-Acesse: https://github.com/Deivessss/cadastro-de-livros-node.js
+Software "cadastro-de-livros", desenvolvido em JavaScript/Node.js, com REST API e armazenamento em PostgreSQL.
+Acesse: https://github.com/Deivessss/cadastro-de-livros-node-postgresql
 
 💼Busco um estágio:  
 Estou animado para aprender, e ter minha primeira experiência na área de tecnologia como desenvolvedor!
